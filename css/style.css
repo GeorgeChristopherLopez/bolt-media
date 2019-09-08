@@ -24,7 +24,7 @@
         .brand{
         font-size: 2.5rem;
         font-family: var(--h-font);
-        margin-left: 5%;
+        margin-left: 8%;
         }
 
         .brand i {
@@ -78,6 +78,7 @@
         text-transform: uppercase;
         text-align: center;
         font-weight: 800;
+
     }
 
 
@@ -96,6 +97,7 @@
     .navbar-warning {
         background:var(--main-deep-dark) !important;
         padding: 1rem;
+        font-size: 2rem;
        
     }
  
